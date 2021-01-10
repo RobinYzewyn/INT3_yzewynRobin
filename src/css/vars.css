@@ -1,0 +1,9 @@
+:root {
+  --blueColor: #49bdd7;
+  --titleFontSize: 1.88rem;
+  --borderGray: solid lightgray .1rem;
+  --colorGray: #909090;
+  --colorRed: rgba(202, 93, 93, 1);
+}
+
+/* @custom-media --only-medium-screen (width >= 500px); */
