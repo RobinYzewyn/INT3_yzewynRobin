@@ -7,46 +7,6 @@ $routes = array(
   'home' => array(
     'controller' => 'Layers',
     'action' => 'index'
-  ),
-  'registreer' => array(
-    'controller' => 'Layers',
-    'action' => 'registreer'
-  ),
-  'nieuwwachtwoord' => array(
-    'controller' => 'Layers',
-    'action' => 'nieuwwachtwoord'
-  ),
-  'opdracht' => array(
-    'controller' => 'Layers',
-    'action' => 'opdracht'
-  ),
-  'opdrachten' => array(
-    'controller' => 'Layers',
-    'action' => 'opdrachten'
-  ),
-  'opdrachttoevoegen' => array(
-    'controller' => 'Layers',
-    'action' => 'opdrachttoevoegen'
-  ),
-  'profiel' => array(
-    'controller' => 'Layers',
-    'action' => 'profiel'
-  ),
-  'schoolagenda' => array(
-    'controller' => 'Layers',
-    'action' => 'schoolagenda'
-  ),
-  'schoolagendaToevoegen' => array(
-    'controller' => 'Layers',
-    'action' => 'schoolagendaToevoegen'
-  ),
-  'vaktoevoegen' => array(
-    'controller' => 'Layers',
-    'action' => 'vaktoevoegen'
-  ),
-  'logout' => array(
-    'controller' => 'Layers',
-    'action' => 'logout'
   )
 );
 
